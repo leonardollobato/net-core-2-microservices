@@ -1,0 +1,12 @@
+/Users/leonardolobato/Documents/Projects/Study/Actio/src/Actio.Services.Activities/bin/Debug/netcoreapp2.0/Actio.Services.Activities.deps.json
+/Users/leonardolobato/Documents/Projects/Study/Actio/src/Actio.Services.Activities/bin/Debug/netcoreapp2.0/Actio.Services.Activities.runtimeconfig.json
+/Users/leonardolobato/Documents/Projects/Study/Actio/src/Actio.Services.Activities/bin/Debug/netcoreapp2.0/Actio.Services.Activities.runtimeconfig.dev.json
+/Users/leonardolobato/Documents/Projects/Study/Actio/src/Actio.Services.Activities/bin/Debug/netcoreapp2.0/Actio.Services.Activities.dll
+/Users/leonardolobato/Documents/Projects/Study/Actio/src/Actio.Services.Activities/bin/Debug/netcoreapp2.0/Actio.Services.Activities.pdb
+/Users/leonardolobato/Documents/Projects/Study/Actio/src/Actio.Services.Activities/bin/Debug/netcoreapp2.0/Actio.Common.dll
+/Users/leonardolobato/Documents/Projects/Study/Actio/src/Actio.Services.Activities/bin/Debug/netcoreapp2.0/Actio.Common.pdb
+/Users/leonardolobato/Documents/Projects/Study/Actio/src/Actio.Services.Activities/obj/Debug/netcoreapp2.0/Actio.Services.Activities.csproj.CoreCompileInputs.cache
+/Users/leonardolobato/Documents/Projects/Study/Actio/src/Actio.Services.Activities/obj/Debug/netcoreapp2.0/Actio.Services.Activities.AssemblyInfoInputs.cache
+/Users/leonardolobato/Documents/Projects/Study/Actio/src/Actio.Services.Activities/obj/Debug/netcoreapp2.0/Actio.Services.Activities.AssemblyInfo.cs
+/Users/leonardolobato/Documents/Projects/Study/Actio/src/Actio.Services.Activities/obj/Debug/netcoreapp2.0/Actio.Services.Activities.dll
+/Users/leonardolobato/Documents/Projects/Study/Actio/src/Actio.Services.Activities/obj/Debug/netcoreapp2.0/Actio.Services.Activities.pdb

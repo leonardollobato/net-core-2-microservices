@@ -1,0 +1,12 @@
+/Users/leonardolobato/Documents/Projects/Study/Actio/src/Actio.Services.Identity/bin/Debug/netcoreapp2.0/Actio.Services.Identity.deps.json
+/Users/leonardolobato/Documents/Projects/Study/Actio/src/Actio.Services.Identity/bin/Debug/netcoreapp2.0/Actio.Services.Identity.runtimeconfig.json
+/Users/leonardolobato/Documents/Projects/Study/Actio/src/Actio.Services.Identity/bin/Debug/netcoreapp2.0/Actio.Services.Identity.runtimeconfig.dev.json
+/Users/leonardolobato/Documents/Projects/Study/Actio/src/Actio.Services.Identity/bin/Debug/netcoreapp2.0/Actio.Services.Identity.dll
+/Users/leonardolobato/Documents/Projects/Study/Actio/src/Actio.Services.Identity/bin/Debug/netcoreapp2.0/Actio.Services.Identity.pdb
+/Users/leonardolobato/Documents/Projects/Study/Actio/src/Actio.Services.Identity/bin/Debug/netcoreapp2.0/Actio.Common.dll
+/Users/leonardolobato/Documents/Projects/Study/Actio/src/Actio.Services.Identity/bin/Debug/netcoreapp2.0/Actio.Common.pdb
+/Users/leonardolobato/Documents/Projects/Study/Actio/src/Actio.Services.Identity/obj/Debug/netcoreapp2.0/Actio.Services.Identity.csproj.CoreCompileInputs.cache
+/Users/leonardolobato/Documents/Projects/Study/Actio/src/Actio.Services.Identity/obj/Debug/netcoreapp2.0/Actio.Services.Identity.AssemblyInfoInputs.cache
+/Users/leonardolobato/Documents/Projects/Study/Actio/src/Actio.Services.Identity/obj/Debug/netcoreapp2.0/Actio.Services.Identity.AssemblyInfo.cs
+/Users/leonardolobato/Documents/Projects/Study/Actio/src/Actio.Services.Identity/obj/Debug/netcoreapp2.0/Actio.Services.Identity.dll
+/Users/leonardolobato/Documents/Projects/Study/Actio/src/Actio.Services.Identity/obj/Debug/netcoreapp2.0/Actio.Services.Identity.pdb
