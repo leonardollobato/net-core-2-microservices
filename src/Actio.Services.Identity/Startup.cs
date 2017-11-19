@@ -22,6 +22,7 @@ namespace Actio.Services.Identity {
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices (IServiceCollection services) {
             services.AddMvc ();
+            services.AddRabbitMq(Configuration);
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
