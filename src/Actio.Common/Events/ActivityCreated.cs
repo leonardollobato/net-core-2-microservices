@@ -19,7 +19,6 @@ namespace Actio.Common.Events {
             this.Name = name;
             this.Description = description;
             this.CreatedAt = createdAt;
-
         }
 
     }

@@ -12,7 +12,6 @@ namespace Actio.Common.Events {
             this.Email = email;
             this.Reason = reason;
             this.Code = code;
-
         }
     }
 }

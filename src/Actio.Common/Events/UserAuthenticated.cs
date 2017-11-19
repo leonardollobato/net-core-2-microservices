@@ -7,7 +7,6 @@ namespace Actio.Common.Events {
         }
         public UserAuthenticated (string email) {
             this.Email = email;
-
         }
 
     }

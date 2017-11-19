@@ -9,7 +9,6 @@ namespace Actio.Common.Events {
         public UserCreated (string email, string name) {
             this.Email = email;
             this.Name = name;
-
         }
 
     }
